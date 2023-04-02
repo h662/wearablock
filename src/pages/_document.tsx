@@ -76,6 +76,25 @@ const Document = () => {
         <meta name="theme-color" content="#444444" />
         <meta name="description" content="Wear a Next Fashion Technology!" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://wearablock.com" />
+        <meta property="og:title" content="Wearablock" />
+        <meta property="og:image" content="images/og-image.png" />
+        <meta
+          property="og:description"
+          content="Wear a Next Fashion Technology!"
+        />
+        <meta property="og:site_name" content="Wearablock" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="Wearablock" />
+        <meta
+          name="twitter:description"
+          content="Wear a Next Fashion Technology!"
+        />
+        <meta name="twitter:image" content="images/og-image.png" />
         <title>Wearablock</title>
       </Head>
       <body>

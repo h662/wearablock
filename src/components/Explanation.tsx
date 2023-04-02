@@ -17,9 +17,7 @@ const Explanation: FC<ExplanationProps> = ({
   return (
     <div className="max-w-screen-xl mx-auto flex flex-col md:flex-row justify-center text-main">
       <div className="md:w-1/2 px-2">
-        <h1 className="text-2xl md:text-6xl font-bold py-4 md:py-8">
-          Physical to Digital
-        </h1>
+        <h1 className="title">Physical to Digital</h1>
         <div className="md:text-2xl">
           <div className="md:mb-4">{explanation1}</div>
           <div className="md:mb-4">{explanation2}</div>

@@ -2,5 +2,16 @@
   "hello": "Hello, Wearablock!",
   "explanation1": "Wearablock Inc. is a company that uses blockchain (NFT) technology to digitize fashion items.",
   "explanation2": "The fashion NFT can be used in various ways such as fashion marketing and digital guarantee.",
-  "explanation3": "Furthermore, in the upcoming metaverse era, fashion NFTs will be a powerful means of expressing one's personality."
+  "explanation3": "Furthermore, in the upcoming metaverse era, fashion NFTs will be a powerful means of expressing one's personality.",
+  "solution": "Wearablock Inc. offers all the solutions for fashion NFTs.",
+  "solution1Title": "#1 Pre-analysis",
+  "solution1Desc": "Decide the concept, quantity, NFT interface, etc. according to the fashion brand.",
+  "solution2Title": "#2 Digital Fashion",
+  "solution2Desc": "Create 3D digital fashion that fit the concept.",
+  "solution3Title": "#3 Fashion NFT",
+  "solution3Desc": "Mint a fashion NFT that can be traded on the NFT marketplace.",
+  "solution4Title": "#4 Own dApp",
+  "solution4Desc": "Provides a dApp with NFT verification.",
+  "solution5Title": "#5 Marketing & Community",
+  "solution5Desc": "Provides marketing and communities that can be used in NFT ecosystems such as Discord."
 }
